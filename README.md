@@ -1,6 +1,7 @@
 ## Study of Private Word Embeddings
 
 This repository is made as part of an assignment for the [Privacy Preserving Machine Learning](http://researchers.lille.inria.fr/abellet/teaching/private_ML_course.html) class of the [University of Lille's Msc. in Data Science](http://bit.ly/MasterDSULille).
+taught by [Aurelien Bellet](http://researchers.lille.inria.fr/abellet/) .
 
 #### Authors : 
 - Samy Zouhri
