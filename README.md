@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=RonyAbecidan.PrivateWordEmbeddings)
+
 ## Study of Private Word Embeddings
 
 This repository is made as part of an assignment for the [Privacy Preserving Machine Learning](http://researchers.lille.inria.fr/abellet/teaching/private_ML_course.html) class of the [University of Lille's Msc. in Data Science](http://bit.ly/MasterDSULille).
