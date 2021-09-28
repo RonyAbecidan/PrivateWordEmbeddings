@@ -1,4 +1,5 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=RonyAbecidan.PrivateWordEmbeddings)
+[![Generic badge](https://img.shields.io/badge/Topic-Private_Word_Embeddings-<>.svg)](https://shields.io/) [![Ask Me Anything !](https://img.shields.io/badge/Library%20-Pytorch-1abc9c.svg)](https://GitHub.com/Naereen/ama) ![visitors](https://visitor-badge.glitch.me/badge?page_id=RonyAbecidan.PrivateWordEmbeddings) 
+
 
 ## Study of Private Word Embeddings
 
@@ -25,7 +26,7 @@ This repo is made of **3** parts :
 
 - Two illustrative notebooks in which we propose two experiments :
      - The first one consists in studying to what extent a word embedding can leak sensitive information. We have used for this experiment [the Word2Vec embedding of the library gensim](https://radimrehurek.com/gensim/models/word2vec.html)
-     - The second one consists in implementing the strategy proposed by the authors while studying its impact on utility for different classifications tasks. This time we have considered a "custom" embedding using pytorch.
+     - The second one consists in implementing the strategy proposed by the authors while studying its impact on utility for different classifications tasks. This time we considered a "custom" embedding using pytorch.
 
 ***
 
